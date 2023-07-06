@@ -6,9 +6,9 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
+  firstName: "Iglesias",
   middleName: "",
-  lastName: "Shoaib",
+  lastName: "Federico",
   message: " Passionate about changing the world with technology. ",
   icons: [
     {
@@ -100,14 +100,14 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
     { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "HTML/CSS", value: 90 },
+    { name: "TypeScript", value: 85 },
+    { name: "React", value: 90 },
+    { name: "Node", value: 80 },
+    { name: "Express", value: 70 },
+    { name: "PHP", value: 55 },
+    { name: "MySQL", value: 80 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
