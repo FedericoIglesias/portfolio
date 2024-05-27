@@ -69,7 +69,7 @@ const repos = {
   heading: "Mis proyectos recientes",
   gitHubUsername: "FedericoIglesias", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["dashboard-hotel-miranda","api-hotel-miranda","laravel-hotel-miranda","navPhoto","oxigenShop"],
+  specificRepos: ["dashboard-hotel-miranda","api-hotel-miranda","api-contolStock","peluqueriaCanina"],
 };
 
 // Leadership SECTION
@@ -103,12 +103,12 @@ const skills = {
   hardSkills: [
     { name: "JavaScript", value: 90 },
     { name: "TypeScript", value: 80 },
-    { name: "React", value: 85 },
+    { name: "Java", value: 80 },
     { name: "Node", value: 75 },
-    { name: "Express", value: 60 },
-    { name: "HTML/CSS", value: 90 },
-    { name: "PHP", value: 55 },
-    { name: "MongoDB", value: 60 },
+    { name: "MySQL", value: 75 },
+    { name: "Express", value: 80 },
+    { name: "React", value: 70 },
+    { name: "AWS", value: 55 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
